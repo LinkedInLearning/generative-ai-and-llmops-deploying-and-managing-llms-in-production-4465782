@@ -1,6 +1,12 @@
 # Generative AI and LLMOps: Deploying & Managing LLMs in Production
 This is the repository for the LinkedIn Learning course `Generative AI and LLMOps: Deploying & Managing LLMs in Production`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+Cutting-edge artificial intelligence technologies are changing the world. But without proper deployment and management, your applications may never reach their full potential. Worse, they could simply fail or even cause critical errors in your systems.
+As more organizations are incorporating large language models into their workflows, there's an increasing need for professionals skilled in deploying and monitoring these models effectively, responsibly, and securely in production environments. In this course, learn the advanced techniques and best practices for deploying and monitoring LLMs in production environments. Explore LLM deployment options, handling API limitations, performance monitoring techniques, prompt management, addressing hallucinations, and more. Plus, learn about security and cost considerations, and test your learning with challenges and solutions.
+
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -20,15 +26,9 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://github.com/LinkedInLearning/generative-ai-and-llmops-deploying-and-managing-llms-in-production-4465782
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE5kAgmoLJYYQ/learning-public-crop_675_1200/0/1720810307853?e=2147483647&v=beta&t=Nhis9NF1FKNuzcEtZq-EtmQOIa-1_6GUT89BofiYI7A
 
